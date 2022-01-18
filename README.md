@@ -1,5 +1,5 @@
 ### Hi there 👋
-A soon to be Java Developer studying Software Development
+A soon to be Developer studying Software Development
 Interested in all things tech and keen to learn more.
 - 🔭 I’m currently working on getting an Internship 🤞🤞
 
