@@ -1,7 +1,5 @@
 ### Hi there 👋
-A soon to be Developer studying Software Development
-Interested in all things tech and keen to learn more.
-- 🔭 I’m currently working on getting an Internship 🤞🤞
+Irish Based Graduate software Developer
 
 <!--
 **Timmyctc/Timmyctc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
